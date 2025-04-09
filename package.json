@@ -1,9 +1,10 @@
 {
-  "name": "ckeditor5-custom-project",
+  "name": "ckeditor5-react-kun",
   "version": "0.0.1",
   "main": "./build/index.js",
   "module": "./build/index.js",
   "types": "./build/modules.d.ts",
+  "repository": "https://github.com/kunbiya/ckeditor5-react",
   "scripts": {
     "start": "vite",
     "start-to": "node scripts/start.js --PORT 3004",
